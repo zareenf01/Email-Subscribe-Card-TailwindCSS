@@ -9,6 +9,7 @@ This is a nice mini project where I've build an email subscribe card with HTML a
 - See hover states for all interactive elements on the page
 
 ### Screenshot
+![](./screenshot.jpeg)
 
 ### Links
 Live Site URL: (https://zareenf01.github.io/Email-Subscribe-Card-TailwindCSS/)
