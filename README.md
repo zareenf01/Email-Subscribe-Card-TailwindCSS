@@ -1,7 +1,7 @@
 # Email-Subscribe-Card-TailwindCSS
 
 ## Overview
-This is a nice mini project where I've build an email subscribe card with HTML and TailwindCSS.
+This is a nice mini project from my course where I've build an email subscribe card with HTML and TailwindCSS.
 
 ### Users should be able to:
 
