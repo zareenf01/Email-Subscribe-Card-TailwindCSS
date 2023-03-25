@@ -16,7 +16,7 @@ Live Site URL: (https://zareenf01.github.io/Email-Subscribe-Card-TailwindCSS/)
 
 ### Built with
 - Semantic HTML5 markup
-- Tailwind CSS
+- Tailwind CSS using CDN
 - Utility classes
 - Mobile-first workflow
 
